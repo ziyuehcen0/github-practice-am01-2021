@@ -31,3 +31,4 @@
 |02|Roman Vazquez Lorenzo   | 3 | RomanVazquezL | https://github.com/RomanVazquezL/My_website |  https://festive-colden-5f291f.netlify.app | 2021-09-01
 |03|Estelle Tessaro   | 8     | estelletessaro |<https://github.com/estelletessaro/my_website>   |<https://estelletessaro-portfolio.netlify.app/> |2021-09-01 |
 |04|Hamish Thomas          | 2        | HamishThomas         |<https://github.com/HamishThomas/my_website>           |<https://hamish-portfolio.netlify.app/>        |2021-09-01 |
+|05|Kazmer Nagy-Betegh     | 11       | kazmer97             |<https://github.com/kazmer97/my_website>               |<https://kazmer-nagy-betegh.netlify.app> |2020-09-01 |
