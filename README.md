@@ -26,4 +26,4 @@
 
 |No | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
-|00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 |
+|00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 |01|Roman Vazquez Lorenzo   | 3 | RomanVazquezL | https://github.com/RomanVazquezL/My_website |  https://festive-colden-5f291f.netlify.app | 2021-09-01
