@@ -33,3 +33,4 @@
 |04|Kazmer Nagy-Betegh     | 11       | kazmer97             |<https://github.com/kazmer97/my_website>               |<https://kazmer-nagy-betegh.netlify.app> |2020-09-01 |
 |05|Alex Kubbinga     | 5       | AlexKubbinga             |<https://github.com/AlexKubbinga/my_website>               |<https://alexkubbinga.netlify.app/> |2021-09-01 |
 |07|Hao Ni     | 10       | neo98ni            |<https://github.com/neo98ni/haoni_website>               |<https://neoswebsite.netlify.app> |2021-09-01 |
+|08|Chuhan Zhang | 8   | VioletZhang99            |<https://github.com/VioletZhang99/my_website.git> |<https://chuhan-portfolio.netlify.app> |2021-09-01 |
