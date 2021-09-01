@@ -35,3 +35,4 @@
 |07|Hao Ni     | 10       | neo98ni            |<https://github.com/neo98ni/haoni_website>               |<https://neoswebsite.netlify.app> |2021-09-01 |
 |08|Lazar Jelic	| 10 | jelic98 | <https://github.com/jelic98/lbs_am01_portfolio> | <https://lazar-jelic-am01.netlify.app> | 2021-09-01 |
 |09|Chuhan Zhang | 8   | VioletZhang99            |<https://github.com/VioletZhang99/my_website.git> |<https://chuhan-portfolio.netlify.app> |2021-09-01 |
+|10|	Jose Laffitte|	none	|joseilaffitte	|https://github.com/joseilaffitte|	https://joseswonderfulwebsite.netlify.app/|2021-09-01 |
