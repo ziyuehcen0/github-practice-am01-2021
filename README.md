@@ -36,3 +36,4 @@
 |08|Lazar Jelic	| 10 | jelic98 | <https://github.com/jelic98/lbs_am01_portfolio> | <https://lazar-jelic-am01.netlify.app> | 2021-09-01 |
 |09|Chuhan Zhang | 8   | VioletZhang99            |<https://github.com/VioletZhang99/my_website.git> |<https://chuhan-portfolio.netlify.app> |2021-09-01 |
 |10|	Jose Laffitte|	none	|joseilaffitte	|https://github.com/joseilaffitte|	https://joseswonderfulwebsite.netlify.app/|2021-09-01 |
+|11|Rory Yu | 1   | RoryYu327            |<https://github.com/RoryYu327/my_website> |<https://website4rory.netlify.app> |2021-09-01 |
