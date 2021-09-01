@@ -40,3 +40,4 @@
 |12|Jelena Savic | 12   | jelenaSavic2404            |<https://github.com/jelenaSavic2404/my_website> |<https://jelena-savic-portfolio.netlify.app> |2021-09-01 |
 |13|Massimiliano Ursig   | 1     | massimilianoursig |https://github.com/massimilianoursig/my_website.git  |<https://massimiliano-portfolio.netlify.app/> |2021-09-01 |
 |14|Yuting Wu   | 1     | YutingWu-Joanna |<https://github.com/YutingWu-Joanna/my_website>  |<https://yutingwu-portfolio.netlify.app> |2021-09-01 |
+|15 | Raina Doshi | 5  | rainadoshi6 | <https://github.com/rainadoshi6/my_website> | <https://rainadoshi-portfolio.netlify.app/>  | 01-09-2021 |   
