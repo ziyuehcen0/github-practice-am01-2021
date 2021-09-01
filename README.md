@@ -37,4 +37,4 @@
 |09|Chuhan Zhang | 8   | VioletZhang99            |<https://github.com/VioletZhang99/my_website.git> |<https://chuhan-portfolio.netlify.app> |2021-09-01 |
 |10|	Jose Laffitte|	none	|joseilaffitte	|https://github.com/joseilaffitte|	https://joseswonderfulwebsite.netlify.app/|2021-09-01 |
 |11|Rory Yu | 1   | RoryYu327            |<https://github.com/RoryYu327/my_website> |<https://website4rory.netlify.app> |2021-09-01 |
-|12|Nikos Panayotou | 4   | nikospanayo            |<https://github.com/nikospanayo/my_website.git> |<https://nikos-panayotou.netlify.app/> |2021-09-01 |
+|12|Jelena Savic | 12   | jelenaSavic2404            |<https://github.com/jelenaSavic2404/my_website> |<https://jelena-savic-portfolio.netlify.app> |2021-09-01 |
