@@ -30,3 +30,4 @@
 |01|Tanisha Yadav          | 1.       | tayadav  |<https://github.com/tayadav>  |<https://app.netlify.com/teams/tayadav/overview>  |2021-09-01
 |02|Roman Vazquez Lorenzo   | 3 | RomanVazquezL | https://github.com/RomanVazquezL/My_website |  https://festive-colden-5f291f.netlify.app | 2021-09-01
 |03|Estelle Tessaro   | 8     | estelletessaro |<https://github.com/estelletessaro/my_website>   |<https://estelletessaro-portfolio.netlify.app/> |2021-09-01 |
+|04|Hamish Thomas          | 2        | HamishThomas         |<https://github.com/HamishThomas/my_website>           |<https://hamish-portfolio.netlify.app/>        |2021-09-01 |
