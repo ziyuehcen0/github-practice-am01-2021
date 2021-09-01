@@ -27,3 +27,4 @@
 |No | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 |
+|01|Kazmer Nagy-Betegh     | 11       | kazmer97             |<https://github.com/kazmer97/my_website>               |<https://kazmer-nagy-betegh.netlify.app> |2020-09-01 |
