@@ -40,3 +40,4 @@
 |12|Jelena Savic | 12   | jelenaSavic2404            |<https://github.com/jelenaSavic2404/my_website> |<https://jelena-savic-portfolio.netlify.app> |2021-09-01 |
 |13|Massimiliano Ursig   | 1     | massimilianoursig |https://github.com/massimilianoursig/my_website.git  |<https://massimiliano-portfolio.netlify.app/> |2021-09-01 |
 |14|Harsh Tripathi | 4 | Harsh2110 | https://github.com/Harsh2110/my_website | <https://harsh-tripathi-portfolio.netlify.app/> | 2021-09-01
+|15|Lauren Wade | 11 | lauren-wade | https://github.com/lauren-wade/my_website | <https://lauren-wade.netlify.app> | 2021-09-01
