@@ -39,3 +39,4 @@
 |11|Rory Yu | 1   | RoryYu327            |<https://github.com/RoryYu327/my_website> |<https://website4rory.netlify.app> |2021-09-01 |
 |12|Jelena Savic | 12   | jelenaSavic2404            |<https://github.com/jelenaSavic2404/my_website> |<https://jelena-savic-portfolio.netlify.app> |2021-09-01 |
 |13|Massimiliano Ursig   | 1     | massimilianoursig |https://github.com/massimilianoursig/my_website.git  |<https://massimiliano-portfolio.netlify.app/> |2021-09-01 |
+|14|Harsh Tripathi | 4 | Harsh2110 | https://github.com/Harsh2110/my_website | <https://harsh-tripathi-portfolio.netlify.app/> | 2021-09-01
