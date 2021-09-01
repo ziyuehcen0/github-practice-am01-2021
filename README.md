@@ -28,3 +28,4 @@
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 |
 |01|Tanisha Yadav          | 1.       | tayadav  |<https://github.com/tayadav>  |<https://app.netlify.com/teams/tayadav/overview>  |2021-09-01
+|02|Roman Vazquez Lorenzo   | 3 | RomanVazquezL | https://github.com/RomanVazquezL/My_website |  https://festive-colden-5f291f.netlify.app | 2021-09-01
