@@ -27,3 +27,4 @@
 |No | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 |
+|01|Hamish Thomas          | 2        | HamishThomas         |<https://github.com/HamishThomas/my_website>           |<https://hamish-portfolio.netlify.app/>        |2021-09-01 |
