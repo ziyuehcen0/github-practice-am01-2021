@@ -63,3 +63,4 @@
 |35| Ziyue Chen | 9 | ziyuehcen0 | <https://github.com/ziyuehcen0/my_website> | <https://ziyuehcen0.netlify.app/> |2021-09-02|
 |36| Marianna Taki | 1 | marianna-taki | <https://github.com/marianna-taki/my_website.git> | <https://marianna-taki.netlify.app> |2021-09-02|
 |37| Ferdinand Wohlenberg | 1 | ferdiwo | <https://github.com/ferdiwo/my_website> | <https://ferdinand-wohlenberg-portfolio.netlify.app/> |2021-09-02|
+|38| Vera Meanti   | 9 | verameanti | <https://github.com/verameanti/my_website> |  <https://keen-pasteur-b5acf7.netlify.app> | 2021-09-02
