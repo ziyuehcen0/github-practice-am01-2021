@@ -50,6 +50,4 @@
 |22|Nereid Kwok   | 11     | nereidkwok |<https://github.com/nereidkwok/my_website>  |<https://nereidkwok.netlify.app> |2021-09-02 |
 |23|Kashish Yudhviram Solanki| 3 | KashishSolanki16 | <https://github.com/KashishSolanki16/my_website> | <https://kashish-solanki-2000.netlify.app/> | 2021-09-02|
 |24|Abdullah Rehman   | 6 | abdullahrehman98 |<https://github.com/abdullahrehman98/my_website> |<abdullahrehmanportfolio.netlify.app> |2021-09-02|
-|25| Sabrina Seow | 3 | sabrinaseow | https://github.com/sabrinaseow/my_website.git | <https://sabrina-seow-portfolio.netlify.app> | 2021-09-02 
-|26| Valeria Morales | 10  | valmoral | https://github.com/valmoral/my-website  https://valmoral-portfolio.netlify.app
-|27| Anuhya Yallabandi | 8 | yanuhya | <https://github.com/yanuhya/my_website.git> | <https://yanuhya.netlify.app/> |2021-09-02|
+|32|Chandrima Tolia   | 2 | chandrimatolia |<https://github.com/chandrimatolia/mywebsite.git> |<https://chandrimatoliaportfolio.netlify.app>|2021-09-02|
