@@ -39,5 +39,10 @@
 |11|Rory Yu | 1   | RoryYu327            |<https://github.com/RoryYu327/my_website> |<https://website4rory.netlify.app> |2021-09-01 |
 |12|Jelena Savic | 12   | jelenaSavic2404            |<https://github.com/jelenaSavic2404/my_website> |<https://jelena-savic-portfolio.netlify.app> |2021-09-01 |
 |13|Massimiliano Ursig   | 1     | massimilianoursig |https://github.com/massimilianoursig/my_website.git  |<https://massimiliano-portfolio.netlify.app/> |2021-09-01 |
-|14|Yuting Wu   | 1     | YutingWu-Joanna |<https://github.com/YutingWu-Joanna/my_website>  |<https://yutingwu-portfolio.netlify.app> |2021-09-01 |
-|15 | Raina Doshi | 5  | rainadoshi6 | <https://github.com/rainadoshi6/my_website> | <https://rainadoshi-portfolio.netlify.app/>  | 01-09-2021 |   
+|14|Harsh Tripathi | 4 | Harsh2110 | https://github.com/Harsh2110/my_website | <https://harsh-tripathi-portfolio.netlify.app/> | 2021-09-01
+|15|Yuting Wu   | 1     | YutingWu-Joanna |<https://github.com/YutingWu-Joanna/my_website>  |<https://yutingwu-portfolio.netlify.app> |2021-09-01 |
+|16|Edoardo Ferri   | 2     | edo4 |<https://github.com/edo4/my_website.git>  |<https://edoardoferri-portfolio.netlify.app|2021-09-01>|
+|17|Lauren Wade | 11 | lauren-wade | https://github.com/lauren-wade/my_website | <https://lauren-wade.netlify.app> | 2021-09-01
+|18|Jiaying Chen   | 3     | JiayingChen116 |<https://github.com/JiayingChen116/my-website>  |<https://jiayingchen-portfolio.netlify.app> |2021-09-01 |
+|19|Hanlu Lin   | 10    | hanlulinn |<https://github.com/hanlulinn/my_website>  |<https://hanlu-lin.netlify.app> |2021-09-02 |
+|20 | Raina Doshi | 5  | rainadoshi6 | <https://github.com/rainadoshi6/my_website> | <https://rainadoshi-portfolio.netlify.app/>  | 01-09-2021 |   
