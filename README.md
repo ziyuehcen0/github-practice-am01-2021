@@ -53,3 +53,4 @@
 |25| Sabrina Seow | 3 | sabrinaseow | https://github.com/sabrinaseow/my_website.git | <https://sabrina-seow-portfolio.netlify.app> | 2021-09-02 
 |26| Valeria Morales | 10  | valmoral | https://github.com/valmoral/my-website  https://valmoral-portfolio.netlify.app
 |27| Anuhya Yallabandi | 8 | yanuhya | <https://github.com/yanuhya/my_website.git> | <https://yanuhya.netlify.app/> |2021-09-02|
+|28| Ziyue Chen | 9 | ziyuehcen0 | <https://github.com/ziyuehcen0/my_website> | <https://ziyuehcen0.netlify.app/> |2021-09-02|
