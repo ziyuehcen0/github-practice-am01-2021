@@ -68,3 +68,4 @@
 |40|Stephen Zhu | 9 | Stephenzhu99 | <https://github.com/Stephenzhu99/my_website> | <https://stephen-zhu-portfolio.netlify.app/> | 2021-09-02|
 |41|Shengcheng Liu | 12 | lscleo | <https://github.com/lscleo/my_website> | <https://my-website-lscleo.netlify.app/> | 2021-09-02|
 |42| Sophia Kalusche | 12 | sophia-2021 | <https://github.com/sophia-2021/my_website.git> | <https://sophia-2021-portfolio.netlify.app> | 2021-09-02
+|43| Junna Yanai | 10 | Jubba8713 | <https://github.com/Jubba8713/my_website1.git> | <https://junnayanaiportfolio.netlify.app> | 2021-09-03
