@@ -53,5 +53,7 @@
 |25| Sabrina Seow | 3 | sabrinaseow | https://github.com/sabrinaseow/my_website.git | <https://sabrina-seow-portfolio.netlify.app> | 2021-09-02 
 |26| Valeria Morales | 10  | valmoral | https://github.com/valmoral/my-website  https://valmoral-portfolio.netlify.app
 |27| Anuhya Yallabandi | 8 | yanuhya | <https://github.com/yanuhya/my_website.git> | <https://yanuhya.netlify.app/> |2021-09-02|
-|28|Yuan Gao   | 5 | Gaoyuan66 |<https://github.com/Gaoyuan66/my_website> |<ygao.netlify.app> |2021-09-02|
-
+|28| Purva Sikri | 10 | Purvasikri | <https://github.com/Purvasikri/my_website> | <https://purvasikri.netlify.app> | 2021-09-02 |
+|29|Xuejing Huang   | 5 | Xuejingbb |<https://github.com/XuejingHuang/My-website> |<http://xuejing-portfolio.netlify.app/> |2021-09-02|
+|30|Maximilian Stock   | 3 | maximilianstock |<https://github.com/maximilianstock/Portfolio-Website> |<https://maximilianstock.netlify.app/> |2021-09-02|
+|31|Yuan Gao   | 5 | Gaoyuan66 |<https://github.com/Gaoyuan66/my_website> |<ygao.netlify.app> |2021-09-02|
