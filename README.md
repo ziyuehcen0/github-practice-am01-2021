@@ -35,7 +35,7 @@
 |07|Hao Ni     | 10       | neo98ni            |<https://github.com/neo98ni/haoni_website>               |<https://neoswebsite.netlify.app> |2021-09-01 |
 |08|Lazar Jelic	| 10 | jelic98 | <https://github.com/jelic98/lbs_am01_portfolio> | <https://lazar-jelic-am01.netlify.app> | 2021-09-01 |
 |09|Chuhan Zhang | 8   | VioletZhang99            |<https://github.com/VioletZhang99/my_website.git> |<https://chuhan-portfolio.netlify.app> |2021-09-01 |
-|10|	Jose Laffitte|	none	|joseilaffitte	|https://github.com/joseilaffitte|	https://joseswonderfulwebsite.netlify.app/|2021-09-01 |
+|10|	Jose Laffitte|	7	|joseilaffitte	|https://github.com/joseilaffitte|	https://joseswonderfulwebsite.netlify.app/|2021-09-01 |
 |11|Rory Yu | 1   | RoryYu327            |<https://github.com/RoryYu327/my_website> |<https://website4rory.netlify.app> |2021-09-01 |
 |12|Jelena Savic | 12   | jelenaSavic2404            |<https://github.com/jelenaSavic2404/my_website> |<https://jelena-savic-portfolio.netlify.app> |2021-09-01 |
 |13|Massimiliano Ursig   | 1     | massimilianoursig |https://github.com/massimilianoursig/my_website.git  |<https://massimiliano-portfolio.netlify.app/> |2021-09-01 |
