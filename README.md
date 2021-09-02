@@ -40,5 +40,5 @@
 |12|Jelena Savic | 12   | jelenaSavic2404            |<https://github.com/jelenaSavic2404/my_website> |<https://jelena-savic-portfolio.netlify.app> |2021-09-01 |
 |13|Massimiliano Ursig   | 1     | massimilianoursig |https://github.com/massimilianoursig/my_website.git  |<https://massimiliano-portfolio.netlify.app/> |2021-09-01 |
 |14|Harsh Tripathi | 4 | Harsh2110 | https://github.com/Harsh2110/my_website | <https://harsh-tripathi-portfolio.netlify.app/> | 2021-09-01
-|15|Edoardo Ferri   | 2     | edo4 |<https://github.com/edo4/my_website.git>  |<https://edoardoferri-portfolio.netlify.app|2021-09-01>|
-
+|15|Yuting Wu   | 1     | YutingWu-Joanna |<https://github.com/YutingWu-Joanna/my_website>  |<https://yutingwu-portfolio.netlify.app> |2021-09-01 |
+|16|Edoardo Ferri   | 2     | edo4 |<https://github.com/edo4/my_website.git>  |<https://edoardoferri-portfolio.netlify.app|2021-09-01>|
