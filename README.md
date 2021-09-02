@@ -55,3 +55,4 @@
 |27| Anuhya Yallabandi | 8 | yanuhya | <https://github.com/yanuhya/my_website.git> | <https://yanuhya.netlify.app/> |2021-09-02|
 |28| Purva Sikri | 10 | Purvasikri | <https://github.com/Purvasikri/my_website> | <https://purvasikri.netlify.app> | 2021-09-02 |
 |29|Xuejing Huang   | 5 | Xuejingbb |<https://github.com/XuejingHuang/My-website> |<http://xuejing-portfolio.netlify.app/> |2021-09-02|
+|30|Maximilian Stock   | 3 | maximilianstock |<https://github.com/maximilianstock/Portfolio-Website> |<https://maximilianstock.netlify.app/> |2021-09-02|
