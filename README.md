@@ -59,3 +59,4 @@
 |31|Yuan Gao   | 5 | Gaoyuan66 |<https://github.com/Gaoyuan66/my_website> |<ygao.netlify.app> |2021-09-02|
 |32|Chandrima Tolia   | 2 | chandrimatolia |<https://github.com/chandrimatolia/mywebsite.git> |<https://chandrimatoliaportfolio.netlify.app>|2021-09-02|
 |33|Wei Guo   | 4     | HMS-Ray |<https://github.com/HMS-Ray/my_website>   |<https://weiguogreat2021.netlify.app/>        |2021-09-02 |
+|34| Francois Mizrahi | 8 | FrancoisMizrahi | <https://github.com/FrancoisMizrahi/my_website.git> | <https://francois-mizrahi-portfolio.netlify.app/> |2021-09-02|
