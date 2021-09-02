@@ -27,7 +27,7 @@
 |No | Name | Study Group | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 |
-|01|Roman Vazquez Lorenzo   | 3 | RomanVazquezL | https://github.com/RomanVazquezL/My_website |  https://festive-colden-5f291f.netlify.app | 2021-09-01
+|01|Roman Vazquez Lorenzo   | 3 | RomanVazquezL | https://github.com/RomanVazquezL/My_website |  https://rrvll.netlify.app/ | 2021-09-01
 |02|Estelle Tessaro   | 8     | estelletessaro |<https://github.com/estelletessaro/my_website>   |<https://estelletessaro-portfolio.netlify.app/> |2021-09-01 |
 |03|Hamish Thomas          | 2        | HamishThomas         |<https://github.com/HamishThomas/my_website>           |<https://hamish-portfolio.netlify.app/>        |2021-09-01 |
 |04|Kazmer Nagy-Betegh     | 11       | kazmer97             |<https://github.com/kazmer97/my_website>               |<https://kazmer-nagy-betegh.netlify.app> |2020-09-01 |
@@ -59,4 +59,10 @@
 |31|Yuan Gao   | 5 | Gaoyuan66 |<https://github.com/Gaoyuan66/my_website> |<ygao.netlify.app> |2021-09-02|
 |32|Chandrima Tolia   | 2 | chandrimatolia |<https://github.com/chandrimatolia/mywebsite.git> |<https://chandrimatoliaportfolio.netlify.app>|2021-09-02|
 |33|Wei Guo   | 4     | HMS-Ray |<https://github.com/HMS-Ray/my_website>   |<https://weiguogreat2021.netlify.app/>        |2021-09-02 |
-|34|Stephen Zhu | 9 | Stephenzhu99 | <https://github.com/Stephenzhu99/my_website> | <https://stephen-zhu-portfolio.netlify.app/> | 2021-09-02|
+|34| Francois Mizrahi | 8 | FrancoisMizrahi | <https://github.com/FrancoisMizrahi/my_website.git> | <https://francois-mizrahi-portfolio.netlify.app/> |2021-09-02|
+|35| Ziyue Chen | 9 | ziyuehcen0 | <https://github.com/ziyuehcen0/my_website> | <https://ziyuehcen0.netlify.app/> |2021-09-02|
+|36| Marianna Taki | 1 | marianna-taki | <https://github.com/marianna-taki/my_website.git> | <https://marianna-taki.netlify.app> |2021-09-02|
+|37| Ferdinand Wohlenberg | 1 | ferdiwo | <https://github.com/ferdiwo/my_website> | <https://ferdinand-wohlenberg-portfolio.netlify.app/> |2021-09-02|
+|38| Vera Meanti | 9 | verameanti | <https://github.com/verameanti/my_website> | <https://vera-meanti-website.netlify.app/> |2021-09-02|
+|39| Hanyu Wang | 7 | nullboi | <https://https://github.com/nullboi/my_website.git> | <https://hanyu-wang-website.netlify.app/> |2021-09-02|
+|40|Stephen Zhu | 9 | Stephenzhu99 | <https://github.com/Stephenzhu99/my_website> | <https://stephen-zhu-portfolio.netlify.app/> | 2021-09-02|
