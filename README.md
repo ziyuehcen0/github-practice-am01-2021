@@ -50,4 +50,4 @@
 |22|Nereid Kwok   | 11     | nereidkwok |<https://github.com/nereidkwok/my_website>  |<https://nereidkwok.netlify.app> |2021-09-02 |
 |23|Kashish Yudhviram Solanki| 3 | KashishSolanki16 | <https://github.com/KashishSolanki16/my_website> | <https://kashish-solanki-2000.netlify.app/> | 2021-09-02|
 |24|Abdullah Rehman   | 6 | abdullahrehman98 |<https://github.com/abdullahrehman98/my_website> |<abdullahrehmanportfolio.netlify.app> |2021-09-02|
-|25| Anuhya Yallabandi | 8 | yanuhya | <https://github.com/yanuhya/my_website> | <https://app.netlify.com/teams/yanuhya/overview> |2021-09-02|
+|25| Anuhya Yallabandi | 8 | yanuhya | <https://github.com/yanuhya/my_website.git> | <https://app.netlify.com/teams/yanuhya/overview> |2021-09-02|
