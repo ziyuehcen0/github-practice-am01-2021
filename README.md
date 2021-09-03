@@ -71,3 +71,4 @@
 |43| Junna Yanai | 10 | Jubba8713 | <https://github.com/Jubba8713/my_website1.git> | <https://junnayanaiportfolio.netlify.app> | 2021-09-03
 |44| Tanisha Yadav| 1 | tayadav |<https://github.com/tayadav/My_Website> | <https://tanishayadav.netlify.app> | 2021-09-03  |
 |45| Rishabh Kaushik| 9 | rishabh1331 |https://github.com/rishabh1331/mywebsite | https://rishabhportfolio101.netlify.app/| 2021-09-03  |
+|46| Yingjin He| 3 | YingjnHeee |https://github.com/YingjinHeee/My_Website | https://yingjinhe.netlify.app| 2021-09-03  |
