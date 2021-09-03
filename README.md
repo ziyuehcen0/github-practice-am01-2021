@@ -48,7 +48,7 @@
 |20 | Raina Doshi | 5  | rainadoshi6 | <https://github.com/rainadoshi6/my_website> | <https://rainadoshi-portfolio.netlify.app/>  | 01-09-2021 |   
 |21|Akshat Kacheria   | 12     | AkshatKacheria |https://github.com/AkshatKacheria/akshatkacheriaportfolio.git  |<https://akshatkacheria.netlify.app> |2021-09-02
 |22|Nereid Kwok   | 11     | nereidkwok |<https://github.com/nereidkwok/my_website>  |<https://nereidkwok.netlify.app> |2021-09-02 |
-|23|Kashish Yudhviram Solanki| 3 | KashishSolanki16 | <https://github.com/KashishSolanki16/my_website> | <https://kashish-solanki-2000.netlify.app/> | 2021-09-02|
+|23|Kashish Yudhviram Solanki| 3 | KashishSolanki16 | <https://github.com/KashishSolanki16/my_website> | <https://kashishsolanki.netlify.app> | 2021-09-02|
 |24|Abdullah Rehman   | 6 | abdullahrehman98 |<https://github.com/abdullahrehman98/my_website> |<abdullahrehmanportfolio.netlify.app> |2021-09-02|
 |25| Sabrina Seow | 3 | sabrinaseow | https://github.com/sabrinaseow/my_website.git | <https://sabrina-seow-portfolio.netlify.app> | 2021-09-02 
 |26| Valeria Morales | 10  | valmoral | https://github.com/valmoral/my-website  https://valmoral-portfolio.netlify.app
