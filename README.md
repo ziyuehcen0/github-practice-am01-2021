@@ -69,3 +69,4 @@
 |41|Shengcheng Liu | 12 | lscleo | <https://github.com/lscleo/my_website> | <https://my-website-lscleo.netlify.app/> | 2021-09-02|
 |42| Sophia Kalusche | 12 | sophia-2021 | <https://github.com/sophia-2021/my_website.git> | <https://sophia-2021-portfolio.netlify.app> | 2021-09-02
 |43| Junna Yanai | 10 | Jubba8713 | <https://github.com/Jubba8713/my_website1.git> | <https://junnayanaiportfolio.netlify.app> | 2021-09-03
+|44| Tanisha Yadav| 1 | tayadav |<https://github.com/tayadav/My_Website> | <https://tanishayadav.netlify.app> | 2021-09-03  |
