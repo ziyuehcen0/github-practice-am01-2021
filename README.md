@@ -26,7 +26,7 @@
 
 |No | Name | Study Group | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
-|00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 |
+|00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |01|Roman Vazquez Lorenzo   | 3 | RomanVazquezL | https://github.com/RomanVazquezL/My_website |  https://rrvll.netlify.app/ | 2021-09-01
 |02|Estelle Tessaro   | 8     | estelletessaro |<https://github.com/estelletessaro/my_website>   |<https://estelletessaro-portfolio.netlify.app/> |2021-09-01 |
 |03|Hamish Thomas          | 2        | HamishThomas         |<https://github.com/HamishThomas/my_website>           |<https://hamish-portfolio.netlify.app/>        |2021-09-01 |
