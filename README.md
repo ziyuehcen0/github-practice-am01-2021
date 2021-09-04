@@ -56,7 +56,7 @@
 |28| Purva Sikri | 10 | Purvasikri | <https://github.com/Purvasikri/my_website> | <https://purvasikri.netlify.app> | 2021-09-02 |
 |29|Xuejing Huang   | 5 | Xuejingbb |<https://github.com/XuejingHuang/My-website> |<http://xuejing-portfolio.netlify.app/> |2021-09-02|
 |30|Maximilian Stock   | 3 | maximilianstock |<https://github.com/maximilianstock/Portfolio-Website> |<https://maximilianstock.netlify.app/> |2021-09-02|
-|31|Yuan Gao   | 5 | Gaoyuan66 |<https://github.com/Gaoyuan66/my_website> |<ygao.netlify.app> |2021-09-02|
+|31|Yuan Gao   | 5 | Gaoyuan66 |<https://github.com/Gaoyuan66/my_website> |<https://ygao.netlify.app> |2021-09-02|
 |32|Chandrima Tolia   | 2 | chandrimatolia |<https://github.com/chandrimatolia/mywebsite.git> |<https://chandrimatoliaportfolio.netlify.app>|2021-09-02|
 |33|Wei Guo   | 4     | HMS-Ray |<https://github.com/HMS-Ray/my_website>   |<https://weiguogreat2021.netlify.app/>        |2021-09-02 |
 |34| Francois Mizrahi | 8 | FrancoisMizrahi | <https://github.com/FrancoisMizrahi/my_website.git> | <https://francois-mizrahi-portfolio.netlify.app/> |2021-09-02|
