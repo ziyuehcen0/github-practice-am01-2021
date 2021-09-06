@@ -77,3 +77,4 @@
 |49| Aman Sharma| 9 | AmanSharmaGitHub | <https://github.com/AmanSharmaGitHub/mywebsite> | <https://aman-sharma-lbs.netlify.app/> | 2021-09-05 |
 |50| Palak Awasthi| 7 | palak7034 | <https://github.com/palak7034/my_website.git> | <https://palak-awasthi.netlify.app/> | 2021-09-05 |
 |51| Nikos Panayotou| 4 | nikospanayo | <https://github.com/nikospanayo/my_website.git> | <https://nikos-panayotou.netlify.app/> | 2021-09-05 |
+|52| Xinyue Zhang| 4 | xinyuezhang23 | <https://github.com/xinyuezhang23/my_website.git> | <https://my-website-zxy.netlify.app/> | 2021-09-05 |
