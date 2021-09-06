@@ -60,7 +60,7 @@
 |32|Chandrima Tolia   | 2 | chandrimatolia |<https://github.com/chandrimatolia/mywebsite.git> |<https://chandrimatoliaportfolio.netlify.app>|2021-09-02|
 |33|Wei Guo   | 4     | HMS-Ray |<https://github.com/HMS-Ray/my_website>   |<https://weiguogreat2021.netlify.app/>        |2021-09-02 |
 |34| Francois Mizrahi | 8 | FrancoisMizrahi | <https://github.com/FrancoisMizrahi/my_website.git> | <https://francois-mizrahi-portfolio.netlify.app/> |2021-09-02|
-|35| Ziyue Chen | 9 | ziyuehcen0 | <https://github.com/ziyuehcen0/my_website> | <https://ziyuehcen0.netlify.app/> |2021-09-02|
+|35| Ziyue Chen | 9 | ziyuehcen0 | <https://github.com/ziyuehcen0/my_website> | <https://ziyuechen2021.netlify.app/> |2021-09-02|
 |36| Marianna Taki | 1 | marianna-taki | <https://github.com/marianna-taki/my_website.git> | <https://marianna-taki.netlify.app> |2021-09-02|
 |37| Ferdinand Wohlenberg | 1 | ferdiwo | <https://github.com/ferdiwo/my_website> | <https://ferdinand-wohlenberg-portfolio.netlify.app/> |2021-09-02|
 |38| Vera Meanti | 9 | verameanti | <https://github.com/verameanti/my_website> | <https://vera-meanti-website.netlify.app/> |2021-09-02|
